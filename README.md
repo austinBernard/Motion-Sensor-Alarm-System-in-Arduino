@@ -43,29 +43,29 @@ testing.
 
 Test Distance Expected Output Pass/Fail
 
--1 2 cm Activated Activated PASS
+- 1 2 cm Activated Activated PASS
 
--2 24 cm Activated Activated PASS
+- 2 24 cm Activated Activated PASS
 
--3 48 cm Activated Activated PASS
+- 3 48 cm Activated Activated PASS
 
--4 72 cm Activated Activated PASS
+- 4 72 cm Activated Activated PASS
 
--5 96 cm Activated Activated PASS
+- 5 96 cm Activated Activated PASS
 
--6 120 cm Activated Activated PASS
+- 6 120 cm Activated Activated PASS
 
--7 144 cm Activated Activated PASS
+- 7 144 cm Activated Activated PASS
 
--8 168 cm Activated Activated PASS
+- 8 168 cm Activated Activated PASS
 
--9 192 cm Activated Activated PASS
+- 9 192 cm Activated Activated PASS
 
--10 216 cm Activated Activated PASS
+- 10 216 cm Activated Activated PASS
 
--11 240 cm Activated Activated PASS
+- 11 240 cm Activated Activated PASS
 
--12 264 cm Activated Not Activated FAIL
+- 12 264 cm Activated Not Activated FAIL
 
 
 A = Arm Alarm

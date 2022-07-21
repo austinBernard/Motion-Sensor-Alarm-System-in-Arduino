@@ -5,14 +5,17 @@ This project was for an engineering design class at the University of Houston Cl
 
 All parts were bought on Amazon. You can buy a start kit with a arduino mega board and it should come with all the supplies you need.
 
-Supplies needed
+__Supplies needed__
 
--
--
--
--
--
--
+- ELEGOO Mega R3 or Arduino Mega 2560 REV3
+- Passive Buzzer
+- LCD1602 Module
+- 4x4 Matrix Array Membrane Switch Keypad
+- Ultra Sonic Sensor
+- Female-to-Male Dupont Wires
+- Breadboard
+- Breadboard Jumper Wires
+- USB Wire (To connect arduino board to PC)
 
 Motion sensored alarm system using an ELEGOO Mega board and arduino IDE.
 

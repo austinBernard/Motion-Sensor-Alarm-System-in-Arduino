@@ -1,3 +1,5 @@
+//Used to determine how far your motion sensor can read.
+
 #include <LiquidCrystal.h> // includes the LiquidCrystal Library 
 #include <Keypad.h>
 #include <NewPing.h>

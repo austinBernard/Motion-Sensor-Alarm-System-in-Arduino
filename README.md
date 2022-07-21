@@ -1,5 +1,9 @@
 # Motion-Sensored-Alarm-System-in-Arduino
 
+This project was for an engineering design class at the University of Houston Clear lake. There were also two other people working on this project along side myself. Shion and Aeryn.
+
+
+
 Motion sensored alarm system using an ELEGOO Mega board and arduino IDE.
 
 What does the motion sensor do?

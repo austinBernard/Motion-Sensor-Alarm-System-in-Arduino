@@ -1,6 +1,6 @@
 # Motion-Sensored-Alarm-System-in-Arduino
 
-This project was for an engineering design class at the University of Houston Clear lake. There were also two other people working on this project along side myself. Shion and Aeryn.
+This project was for an engineering design class at the University of Houston Clear lake. There were also two other people working on this project along side myself. 
 
 
 All parts were bought on Amazon. You can buy a start kit with a arduino mega board and it should come with all the supplies you need.

@@ -1,5 +1,7 @@
 # Motion-Sensored-Alarm-System-in-Arduino
 
+https://img.youtube.com/vi/Y4U3BavYtbw/maxresdefault.jpg
+
 This project was for an engineering design class at the University of Houston Clear lake. There were also two other people working on this project along side myself. 
 
 
